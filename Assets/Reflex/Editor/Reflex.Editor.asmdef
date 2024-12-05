@@ -1,12 +1,12 @@
 {
-    "name": "code.gameplay",
+    "name": "Reflex.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:d8b63aba1907145bea998dd612889d6b",
-        "GUID:685aaa321f434c5886e6913117e0d06c",
-        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+        "GUID:1530a967b84cfb44dbdd5e8a1989764f"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
